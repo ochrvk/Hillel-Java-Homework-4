@@ -1,4 +1,4 @@
-package chrvk.hw4;
+package chrvk.javaelementary.hw4;
 
 import java.util.Arrays;
 import java.util.NoSuchElementException;

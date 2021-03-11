@@ -1,4 +1,4 @@
-package chrvk.hw4;
+package chrvk.javaelementary.hw4;
 
 public interface IntStack {
     boolean push(int value);

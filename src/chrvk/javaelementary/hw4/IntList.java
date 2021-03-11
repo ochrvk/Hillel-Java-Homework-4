@@ -1,4 +1,4 @@
-package chrvk.hw4;
+package chrvk.javaelementary.hw4;
 
 public interface IntList {
     boolean add(int element);
