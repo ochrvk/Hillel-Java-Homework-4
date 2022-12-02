@@ -1,4 +1,4 @@
-# Homework-4
+# Homework 4
 
 Реализовать класс IntLinkedList который имплементит интерфейс IntList
 
